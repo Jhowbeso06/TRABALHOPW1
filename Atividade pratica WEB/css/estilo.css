@@ -1,0 +1,161 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&family=Rajdhani:wght@300&display=swap');
+
+
+
+
+html{
+    background: url(..//img/FUNDO\ 4.jpg);
+    background-attachment: fixed;
+   
+}
+
+    
+.blocop{
+    border: solid;
+    margin: 0 auto;
+    width: 960px;
+    margin-top: 20px;
+    padding: 10px;
+    color:ghostwhite;
+    background-color:#363636;
+
+
+}
+
+
+.bloco{
+    box-align:center;
+    border: solid;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 50px;
+    margin-top: 1px;
+    color:ghostwhite;
+    background-color:#363636;
+}
+
+.bloco img{
+
+    width: 100px;
+    height: 100px;
+
+}
+
+.h1{
+
+    text-align: center;
+
+}
+
+
+.h2{
+    color: white;
+    text-align: center;
+    font-size: 26px;
+    margin-top: 15px;
+
+}
+
+
+  .img1{
+
+   margin: 10px;
+    border: solid;
+    height: 375px;
+    float:right;
+  }  
+
+
+  .p{
+    text-align: justify;
+    font-size: 21px;   
+    line-height: 1.5;  
+    font-family: 'Lusitana', serif;
+}
+
+
+.p2{
+    text-align: center;
+    border: solid;
+    color:ghostwhite;
+    background-color:#363636;
+    
+
+}
+
+
+
+
+.h3{
+    
+    font-size: 19px;
+    
+}
+
+.img3{
+    margin-right: 20px;
+    border: solid;
+    border-color: white;
+    height: 187px;
+    float:left;
+}
+
+
+
+
+.img4{
+    
+    margin-right: 22px;
+    border: solid;
+    border-color:white;
+    height: 264px;
+    float:left;
+
+
+}
+    
+.img5{
+    
+    margin-right: 20px;
+    border: solid;
+    border-color: white;
+    height: 289px;
+    float:left;
+}
+
+.img6{
+
+   
+    border: solid;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
+    color:ghostwhite;
+    background-color:#363636;
+
+}
+
+
+.img7{
+
+    margin-right: 20px;
+    border: 6px solid;
+    border-color: white;
+    height: 217px;
+    float:left;
+}
+.img8{
+
+    margin-right: 20px;
+    border: 6px solid;
+    border-color: white;
+    height: 226px;
+    float:left;
+}
+a{
+
+    color:red
+
+}
